@@ -60,7 +60,7 @@ public class user2 {
 				}
 			
 			}
-			sc.close();
+			
 		}
 		
 	
